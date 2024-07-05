@@ -24,4 +24,5 @@ preko ekrana. Ažuriranje baze podataka se realizuje pomoću računara i interne
 
 <img src="https://github.com/Slobodan99/Projektovanje-mikroprocesorskog-mjerno-informacionog-sistema-za-meteorolo-ku-stanicu/assets/174813687/cea0d344-a12a-4dd9-89f8-095a83e4660d" width="400" height="300"/>
 <img src="https://github.com/Slobodan99/Projektovanje-mikroprocesorskog-mjerno-informacionog-sistema-za-meteorolo-ku-stanicu/assets/174813687/0383f8db-28a1-40e5-a9e6-c9beb1cbc4e2" width="400" height="300"/>
-
+<img src="https://github.com/Slobodan99/Projektovanje-mikroprocesorskog-mjerno-informacionog-sistema-za-meteorolo-ku-stanicu/assets/174813687/c2534e10-3142-414a-a224-197928dd1a58" width="400" height="300"/>
+<img src="https://github.com/Slobodan99/Projektovanje-mikroprocesorskog-mjerno-informacionog-sistema-za-meteorolo-ku-stanicu/assets/174813687/3982454d-d692-4777-ae69-fdb2a2cb429a" width="400" height="300"/>
