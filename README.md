@@ -1,8 +1,11 @@
-Univerzitet u Banjoj Luci, Mašinski fakultet, Mehatronika
-Završni rad, I ciklus studija
-"Projektovanje mikroprocesorskog mjerno-informacionog sistema za meteorološku stanicu"
+**Univerzitet u Banjoj Luci, Mašinski fakultet, Mehatronika**
+
+**Završni rad, I ciklus studija**
+
+**"Projektovanje mikroprocesorskog mjerno-informacionog sistema za meteorološku stanicu"**
 
 Opis problema:
+
 Potreba za brzim i tačnim informacijama o vremenskim uslovima od ključnog su
 značaja za planiranje i upravljanje u različitim oblastima, od poljoprivrede,
 organizacija do običnih korisnika. Nedostatak jednostavnih i ekonomičnih rješenja
@@ -12,6 +15,7 @@ potreba za razvoj meteorološke stanice koja ima za cilj obezbjeđivanje jednost
 i ekonomski prihvatljivog rješenja za praćenje meteoroloških uslova.
 
 Zadatak:
+
 Korišćenjem dva mikrokontrolera i odgovarajućih mjernih modula potrebno je
 projektovati meteorološku stanicu koja omogućuje mjerenje, praćenje i prikazivanje
 lokalnih meteoroloških podataka. Potrebno je da vanjska jedinica bežično
